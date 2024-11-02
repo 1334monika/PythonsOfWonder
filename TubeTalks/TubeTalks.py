@@ -25,7 +25,7 @@ chrome_options = Options()
 chrome_options.add_argument("--headless")  # Run in headless mode
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
-driver_path = "/Users/sushil/Desktop/git/PythonProjects/PythonsOfWonder/TubeTalks/chromedriver-mac-arm64/chromedriver"  # Update path to your chromedriver
+driver_path = "/Users/monika/Desktop/git/PythonProjects/PythonsOfWonder/TubeTalks/chromedriver-mac-arm64/chromedriver"  # Update path to your chromedriver
 
 # Initialize the WebDriver using Service
 service = Service(executable_path=driver_path)
