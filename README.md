@@ -23,7 +23,6 @@ To get started with the projects in this repository, follow these steps:
    git clone https://github.com/yourusername/PythonsOfWonder.git
    ```
 
-Feel free to contribute to this repository and raise any concerns in the Issues section. Your feedback and contributions are always welcome!
 
 ## 🛠️ Contributing
 
@@ -51,8 +50,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## 💬 Contact
 
-For questions, suggestions, or collaborations, feel free to reach out in the issue section.
+For questions, suggestions, or collaborations, feel free to reach out in the issue section,Your feedback and contributions are always welcome!
 
 Happy coding! 🚀
-```
 
